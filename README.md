@@ -1,6 +1,6 @@
 
 - 👋 Hi, I’m ABBAS NAZARI
-- I'm Android Developer 
+- I'm Android Developer (Flutter , B4A)
 - I was DIT Teacher in Nasle-Farda Acadmic Center
 - 🌱 I’m currently learning Docker, Python (Django)
 
