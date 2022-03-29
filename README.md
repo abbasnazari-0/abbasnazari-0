@@ -2,6 +2,7 @@
 - 👋 Hi, I’m ABBAS NAZARI
 - I'm Android Developer (Flutter , B4A)
 - I was DIT Teacher in Nasle-Farda Acadmic Center
+- I am currently migrating from Afghanistan🇦🇫 to Iran🇮🇷
 - 🌱 I’m currently learning Docker, Python (Django)
 
 <!---
