@@ -33,7 +33,7 @@
 ##  **Languages and Tools**
 
 
-<div align="center">
+
 <img height="30" src="https://user-images.githubusercontent.com/49541849/186938240-e2851fdf-efe9-4a41-9c37-f63c32b6cdce.png"></a>
 <img height="30" src="https://user-images.githubusercontent.com/49541849/186938351-670f6301-1250-401e-ac38-eb0bf12c7ed8.png"></a>
 <img height="30" src="https://user-images.githubusercontent.com/49541849/186938644-39f453ba-cab5-466d-ac0f-92114278a4a3.png"></a>
@@ -42,7 +42,7 @@
 <img height="30" src="https://user-images.githubusercontent.com/49541849/186938922-bd72d967-fb5d-4605-9339-5865c76be4c8.png"></a>
 <img height="30" src="https://user-images.githubusercontent.com/49541849/186938978-af7962fa-e170-4a47-b48d-b02cf5400641.png"></a>
 <!-- <img height="30" src=""></a> -->
-</div>
+
 
 
 
