@@ -26,9 +26,9 @@
 
 
 - 👋 Hi, I’m ABBAS NAZARI
-- I'm Android Developer (Flutter , B4A)
+- I'm Android Developer (Flutter)
 - I am currently migrating from Afghanistan🇦🇫 to Iran🇮🇷
-- 🌱 I’m currently learning Flutter Advanced & Unity Game Engine
+- 🌱 I’m currently learning Flutter Advanced
 
 ##  **Languages and Tools**
 
