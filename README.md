@@ -27,7 +27,8 @@
 
 - 👋 Hi, I’m ABBAS NAZARI
 - I'm Android Developer (Flutter)
-- I am currently migrating from Afghanistan🇦🇫 to Iran🇮🇷
+- I am currently migrating from Afghanistan🇦🇫 to UAE🇦🇪 
+- 
 - 🌱 I’m currently learning Flutter Advanced
 
 ##  **Languages and Tools**
