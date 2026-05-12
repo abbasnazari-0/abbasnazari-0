@@ -1,5 +1,12 @@
 # 💫 About Me:
-- 👨‍💻 Flutter Developer with 4-5 years of experience building mobile apps for Android & iOS  <br>- 🚀 Skilled in modern Flutter development, state management (Bloc, Riverpod), and Clean UI implementation  <br>- 🛠️ Experienced with RESTful APIs, JSON integrations, Firebase (FCM, Auth, Firestore), and third-party API connections  <br>- 💻 Backend experience with PHP (MySQL) and NestJS for building scalable APIs  <br>- 🧩 Comfortable with debugging, performance optimization, and publishing apps on Google Play & App Store  <br>- 🌐 Interested in web apps using Flutter Web  <br>- 🔥 Constantly learning: BLoC pattern, Clean Architecture, best practices, and advanced Flutter concepts  <br>- 💡 Love creating practical, user-friendly apps and turning ideas into real products  <br>
+
+## Mobile Software Engineer with 5+ years of experience building Flutter applications for Android and iOS.
+
+##### I’ve worked on streaming platforms, e-commerce systems, business dashboards, and real-time mobile applications used by thousands of users.
+##### My main focus is building clean, scalable, and reliable apps using Flutter, Riverpod, REST APIs, Firebase, and WebSocket technologies.
+##### I also have backend experience with NestJS, PHP, and MySQL, which helps me work comfortably across both mobile and server-side systems.
+##### I enjoy improving app performance, solving real-world problems, and building products that people actually use.
+##### Currently open to relocation opportunities across Europe.
 
 
 # 💻 Tech Stack:
